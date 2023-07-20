@@ -1,0 +1,8 @@
+// Нейминг полей в JSON
+{
+     "minutes": 100,
+     "sms": 0,
+     "internet": 5,
+     "additionalServices": ["service1"],
+     "totalCost": 25
+ }
